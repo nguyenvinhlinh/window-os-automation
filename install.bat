@@ -13,3 +13,5 @@ winget install -e --id Cloudflare.Warp     --accept-package-agreements  --accept
 winget install -e --id Microsoft.Teams                   --accept-package-agreements  --accept-source-agreements
 winget install -e --id Valve.Steam                       --accept-package-agreements  --accept-source-agreements
 winget install -e --id TheDocumentFoundation.LibreOffice --accept-package-agreements  --accept-source-agreements
+winget install -e --id Oracle.JavaRuntimeEnvironment     --accept-package-agreements  --accept-source-agreements
+winget install -e --id SlackTechnologies.Slack           --accept-package-agreements  --accept-source-agreements
