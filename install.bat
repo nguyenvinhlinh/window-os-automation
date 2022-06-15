@@ -18,3 +18,4 @@ winget install -e --id SlackTechnologies.Slack           --accept-package-agreem
 
 winget install -e --id Notepad++.Notepad++         --accept-package-agreements  --accept-source-agreements
 winget install -e --id Adobe.Acrobat.Reader.64-bit --accept-package-agreements  --accept-source-agreements
+winget install -e --id Docker.DockerDesktop        --accept-package-agreements  --accept-source-agreements
