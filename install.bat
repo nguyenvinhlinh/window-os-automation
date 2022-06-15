@@ -20,3 +20,4 @@ winget install -e --id Notepad++.Notepad++         --accept-package-agreements  
 winget install -e --id Adobe.Acrobat.Reader.64-bit --accept-package-agreements  --accept-source-agreements
 winget install -e --id Docker.DockerDesktop        --accept-package-agreements  --accept-source-agreements
 winget install -e --id Canonical.Ubuntu.2004       --accept-package-agreements  --accept-source-agreements
+winget install -e --id dbeaver.dbeaver             --accept-package-agreements  --accept-source-agreements
