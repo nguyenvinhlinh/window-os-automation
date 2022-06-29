@@ -24,3 +24,4 @@ winget install -e --id dbeaver.dbeaver             --accept-package-agreements  
 
 winget install -e --id Oracle.VirtualBox           --accept-package-agreements  --accept-source-agreements
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk --accept-package-agreements  --accept-source-agreements
+winget install -e --id marha.VcXsrv                --accept-package-agreements  --accept-source-agreements
